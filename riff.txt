@@ -1,0 +1,6 @@
+F3 A3 C4 / F4 A4
+F3 G#3 C4 / F4 Bb4
+F3 G3 C4 / F4 G4
+F3 A3 C4 / F4 A4
+F3 G#3 D4 / F4 Bb4 D5
+F3 Bb3 D4 / F4 G#4 D5
